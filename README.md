@@ -31,6 +31,7 @@ Install all dependencies via pip:
 
 ```bash
 pip install sympy pydy numpy scipy matplotlib
+```
 
 📈 Simulation Outputs
 The following plots are generated:
@@ -53,10 +54,10 @@ Ensure the dependencies are installed.
 
 Run the script:
 
-bash
-Copiar
-Editar
+```
 python kick_simulation.py
+```
+
 The script will display the plots and play the animation.
 
 🛠️ Adjustable Parameters
